@@ -1,0 +1,15 @@
+Hello! This is my fist Backend development project utilizing tools such as node.js, Express, Rest API, and SQLite to make a calculator history feature. 
+
+In order to use this repo you need to make sure to install node.js 
+
+Node.js link: https://nodejs.org/en/download/
+ 
+Then install these Three dependencies 
+
+npm install express - version ^4.18.2
+npm install sqlite3 - version ^5.1.4
+npm install body-parser - version ^1.20.2
+
+After everything is downloaded, type "node server.js" to activate the server then use the link http://localhost:3000 to access the project!
+
+There are some bugs and complications I need to Iron out but hopefully in the future ill be skilled enough to improve this repository! 
